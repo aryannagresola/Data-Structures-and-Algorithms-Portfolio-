@@ -12,9 +12,9 @@ Each activity folder contains the corresponding C++ source code (`.cpp`) and PDF
 
 The activities are organized according to the three academic periods: Preliminaries, Midterms, and Finals.
 
-### 📘 PRELIMINARIES (Hands-on Activities 1–5)
+### 📘 PRELIM (Hands-on Activities 1–5)
 
-| Activity | Title |
+| Hands-on No. | Title |
 |---|---|
 | 1.1 | Basic C++ Programming |
 | 2.1 | Arrays, Pointers and Dynamic Memory |
@@ -24,7 +24,7 @@ The activities are organized according to the three academic periods: Preliminar
 
 ### 📗 MIDTERMS (Hands-on Activities 6–9)
 
-| Activity | Title |
+| Hands-on No. | Title |
 |---|---|
 | 6.1 | Searching Techniques |
 | 7.1 | Sorting Algorithms Part 1 |
@@ -33,12 +33,12 @@ The activities are organized according to the three academic periods: Preliminar
 
 ### 📙 FINALS (Hands-on Activities 10–14)
 
-| Activity | Title |
+| Hands-on No. | Title |
 |---|---|
 | 10.1 | Graphs |
 | 11.1 | Basic Algorithm Analysis |
 | 12.1 | Algorithmic Strategies |
-| 13.1 | Parallel Algorithms and ... |
+| 13.1 | Parallel Algorithms and Multithreading |
 | 14.1 | Algorithm Complexity |
 
 ## Folder Structure
@@ -60,7 +60,7 @@ Data-Structures-and-Algorithms-Portfolio/
 ├── Hands-on Activity 10.1 Graphs/
 ├── Hands-on Activity 11.1 Basic Algorithm Analysis/
 ├── Hands-on Activity 12.1 Algorithmic Strategies/
-├── Hands-on Activity 13.1 Parallel Algorithms/
+├── Hands-on Activity 13.1 Parallel Algorithms and Multithreading/
 ├── Hands-on Activity 14.1 Algorithm Complexity/
 │
 └── README.md
